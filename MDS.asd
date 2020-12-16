@@ -20,5 +20,6 @@
          (:FILE "read-file")
          (:FILE "scoring-duration")
          (:FILE "conversion")
-         (:FILE "midi2mds"))
+         (:FILE "midi2mds")
+         (:FILE "opt/quantizers"))
   )
